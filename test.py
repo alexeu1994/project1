@@ -1,3 +1,3 @@
-
+a = 'asd'
 print(aa)
 
