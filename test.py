@@ -1,3 +1,4 @@
 a = 'asd'
-print(aa)
+b = 'asd'
+print(aa+asd)
 
